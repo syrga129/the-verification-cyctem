@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "text": ["name", "klass", "country"],
+        "numeric": ["old"]
+    },
+    "rules": {
+        "min_age": 15,
+        "required_country": "Kazakhstan"
+    }
+}
